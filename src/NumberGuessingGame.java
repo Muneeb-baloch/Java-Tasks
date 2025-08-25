@@ -9,8 +9,6 @@ public class NumberGuessingGame {
 
         System.out.println("Guess the Number between 20");
         int randomNumber = r.nextInt(20);
-        System.out.println(randomNumber);
-
 
         int i ;
         int maxscore = 10;
